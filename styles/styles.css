@@ -21,25 +21,3 @@ body{
     }
 }
 
-/* CSS For styling */
-
-.custom-shape-divider-bottom-1674972249 {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    overflow: hidden;
-    line-height: 0;
-    transform: rotate(180deg);
-}
-
-.custom-shape-divider-bottom-1674972249 svg {
-    position: relative;
-    display: block;
-    width: calc(105% + 1.3px);
-    height: 223px;
-}
-
-.custom-shape-divider-bottom-1674972249 .shape-fill {
-    fill: #4A90E278;
-}
